@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://imgflip.com/meme/602028977/Cat-getting-flashbanged-gif" alt="gif" />
 
 ###
