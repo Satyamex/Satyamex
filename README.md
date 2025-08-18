@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/satyamex/satyamex/output/snake.svg" alt="Snake animation" />
+<img src="https://imgflip.com/meme/602028977/Cat-getting-flashbanged-gif" alt="gif" />
 
 ###
